@@ -1,0 +1,12 @@
+{
+  "name": "pspcl",
+  "displayName": "pspcl",
+  "expo": {
+    "name": "pspcl",
+    "slug": "pspcl",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
