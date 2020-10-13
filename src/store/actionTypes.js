@@ -1,0 +1,11 @@
+export default {
+    //AUTH Actions
+    UPDATE_AUTH: "UPDATE_AUTH",
+    DEL_ITEM_AUTH: "DEL_ITEM_AUTH",
+    CLEAN_AUTH: "CLEAN_AUTH",
+
+    //MAIN Actions
+    UPDATE_MAIN: "UPDATE_MAIN",
+    DEL_ITEM_MAIN: "DEL_ITEM_MAIN",
+    CLEAN_MAIN: "CLEAN_MAIN"
+}
